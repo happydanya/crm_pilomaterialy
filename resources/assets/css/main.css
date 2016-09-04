@@ -1,0 +1,11 @@
+.link-button {
+    cursor: pointer;
+}
+body {
+    font-family: 'Lato';
+    overflow: hidden;
+}
+
+.fa-btn {
+    margin-right: 6px;
+}

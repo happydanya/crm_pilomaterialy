@@ -1,0 +1,270 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201608 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.crm.pilomaterialy.dp.ua.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2003                
+POS_TIME 2681                
+POS_VISITOR 6115                
+POS_DAY 6398                
+POS_DOMAIN 3287                
+POS_LOGIN 3517                
+POS_ROBOT 3672                
+POS_WORMS 3804                
+POS_EMAILSENDER 3935                
+POS_EMAILRECEIVER 4078                
+POS_SESSION 6552                
+POS_SIDER 6728                
+POS_FILETYPES 4213                
+POS_DOWNLOADS 4340                
+POS_OS 4388                
+POS_BROWSER 4459                
+POS_SCREENSIZE 4560                
+POS_UNKNOWNREFERER 4634                
+POS_UNKNOWNREFERERBROWSER 4721                
+POS_ORIGIN 4803                
+POS_SEREFERRALS 4939                
+POS_PAGEREFS 5083                
+POS_SEARCHWORDS 5287                
+POS_KEYWORDS 5439                
+POS_MISC 2345                
+POS_ERRORS 5498                
+POS_CLUSTER 3373                
+POS_SIDER_404 5654                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160820213226 39 9478 17091846700157
+FirstTime 20160814125235
+LastTime 20160820213226
+LastUpdate 20160821053732 39 0 39 0 0
+TotalVisits 8                   
+TotalUnique 4                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 4                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 4 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 47 51 586651 4 5 122791
+1 15 16 162937 1 1 1291
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 1 1 2005 0 0 0
+13 1 1 0 8 9 2423
+14 17 17 41539 3 3 1254
+15 75 75 217407 4 9 132398
+16 65 65 199681 11 11 50290
+17 62 62 231426 6 6 21871
+18 101 105 779355 19 20 175753
+19 86 86 277120 13 13 36067
+20 48 49 274598 2 2 2574
+21 56 57 263972 2 3 120201
+22 0 0 0 0 0 0
+23 3 4 120102 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 577 589 3156793
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+png 12 1348956 0 0
+html 126 316906 0 0
+Unknown 451 1490931 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 3
+macosx 47
+winnt 12
+winvista 530
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 3
+chrome52.0.2743.116 565
+safari9.0 3
+firefox46.0 21
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 19 21
+From1 0 0
+From2 0 0
+From3 3 3
+From4 555 565
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://vk.com/away.php 2 2
+http://m.vk.com/away.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+403 2 780
+302 24 30910
+206 1 2498
+405 3 7401
+500 37 157614
+301 2 946
+404 8 17100
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 5
+/ 1 http://crm.pilomaterialy.dp.ua/home
+/publuic 1 -
+/favicon.png 2 -
+/%7B%20$url%20%7D%7D 2 http://crm.pilomaterialy.dp.ua/coming
+/img/favicon.png 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 4
+185.23.164.20 512 520 2527674 20160815010444
+109.87.177.196 45 48 456361 20160820213226 20160820212623 /sortByDateConsumption
+185.23.164.215 10 10 31520 20160817001847
+91.243.195.187 10 11 141238 20160814185313
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 4
+20160814 477 482 2086637 4
+20160815 55 61 838170 2
+20160817 10 10 31520 1
+20160820 35 36 200466 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+1h+ 1
+5mn-15mn 1
+15mn-30mn 1
+30s-2mn 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 17
+/coming 167 619514 0 0
+/ 122 311190 8 2
+/products 110 425598 0 0
+/home 37 96393 0 0
+/consumption 37 130226 0 2
+/updateCountProduct 33 35139 0 0
+/login 22 61507 0 2
+/deleteProducts 10 10638 0 0
+/sortByDateConsumption 9 34325 0 0
+/register 9 24802 0 0
+/public/register 1 2739 0 0
+/public/products 2 6312 0 0
+/public/login 2 5540 0 0
+/public/ 4 5716 0 0
+/sortByDateComing 9 33625 0 1
+/public/home 1 2447 0 0
+/deleteComing 2 2126 0 0
+END_SIDER

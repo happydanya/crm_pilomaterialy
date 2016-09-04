@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/crm.pilomaterialy.dp.ua/webstat"
+AuthUserFile /var/www/andreypritula1/data/etc/39869749.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>
